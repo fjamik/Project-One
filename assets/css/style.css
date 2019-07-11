@@ -1,0 +1,39 @@
+body {
+   background: url("../image/bgMainPage.jpg");
+   background-size: 100%;
+}
+
+
+.myheader {
+   float: right;
+   letter-spacing: 2px;
+   word-spacing: 10px;
+   color: whitesmoke;
+   text-shadow: 3px 2px rgb(238, 7, 7);
+}
+
+.myTitle {
+   border-bottom: 3px solid brown;
+}
+
+.myFormInput {
+   color: whitesmoke;
+   border: 5px double whitesmoke;
+   letter-spacing: 2px;
+   word-spacing: 3px;
+   border-radius: 20px;
+   float: right;
+
+   position: absolute;
+   right: 70px;
+   bottom: 40px;
+
+   width: 620px;
+}
+
+
+.myBtm {
+   border-radius: 20px;
+   width: 200px;
+   margin: 0 auto;
+}
